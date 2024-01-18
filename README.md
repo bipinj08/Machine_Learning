@@ -9,7 +9,7 @@ This repository contains a collection of basic machine learning projects, showca
 - **Description:** Implementation of a Support Vector Machine (SVM) algorithm for classification using the famous Iris Flower dataset.
 - **Files:**
   - `svm_iris.ipynb`: Jupyter Notebook with the SVM implementation.
-  - `iris_data.csv`: Dataset used for training and testing.
+  - `iris.data`: Dataset used for training and testing.
 - **Usage:**
   - Explore the Jupyter Notebook for detailed implementation steps.
   
@@ -18,6 +18,6 @@ This repository contains a collection of basic machine learning projects, showca
 - **Description:** Implementation of the K-Nearest Neighbors (KNN) algorithm for predicting diabetes based on relevant health attributes.
 - **Files:**
   - `knn_diabetes.ipynb`: Jupyter Notebook with the KNN implementation.
-  - `diabetes_data.csv`: Dataset used for training and testing.
+  - `diabetes_prediction_dataset.csv`: Dataset used for training and testing.
 - **Usage:**
   - Refer to the Jupyter Notebook for a step-by-step walkthrough.
