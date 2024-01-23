@@ -21,3 +21,9 @@ This repository contains a collection of basic machine learning projects, showca
   - `diabetes_prediction_dataset.csv`: Dataset used for training and testing.
 - **Usage:**
   - Refer to the Jupyter Notebook for a step-by-step walkthrough.
+### 3. RandomForest - Credit Score Predictions
+
+- **Description:** Implementation of the RandomForest algorithm for the predicting the credit scores based on relevent finalcial attributes.
+- **Files:**
+  - 'credit_score_prediction.ipynb': Jupyter Notebook with the RandomForest impletation.
+  - 'Credit_Score_Data': Data set used for training.
